@@ -1,0 +1,16 @@
+.box{
+    width: 400px;
+    height: 200px;
+    border: 5px solid paleturquoise;
+    overflow:scroll;
+}
+.images .favicon{
+    height: 200px;
+    width: 200px;
+}
+
+.box2{
+    width: 400px;
+    height: 200px;
+    border: 4px solid peru;
+}
